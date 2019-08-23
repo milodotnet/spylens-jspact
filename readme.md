@@ -1,4 +1,4 @@
-#SpyLens JS Client
+# SpyLens JS Client
 
 ## Data required in the response
 
@@ -7,7 +7,7 @@
 - date of birth
 - age
 
-##TODO
+## TODO
 
 1. Define the response body when configuring the mock server.
 2. Use matchers to improve the test
